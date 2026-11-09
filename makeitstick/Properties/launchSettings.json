@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "makeitstick (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "makeitstick (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
